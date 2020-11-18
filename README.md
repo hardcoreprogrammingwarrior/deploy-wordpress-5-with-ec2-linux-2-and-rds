@@ -24,6 +24,17 @@ $ git clone git://github.com/WordPress/WordPress.git speedrun_wordpress
 $ cd /var/www/html/speedrun_wordpress 
 ```
 
+**Choose version:**  
+```sh
+$ git branch -r
+$ git checkout 5.6-branch
+```
+
+**Delete git repo:**  
+```sh
+$ rm -rf .git
+```
+
 **Set the host:**  
 ```sh
 $ sudo vim /etc/httpd/conf/httpd.conf   
