@@ -1,4 +1,4 @@
-# How to Speedrun Deploy Wordpress 5 with ec2 Linux 2 and RDS within 14mins
+# How to Speedrun Deploy Wordpress 5 with ec2 Linux 2 and RDS
 Watch it here      
 Wordpress 5.5.3 (PHP v7.4.11) Mysql 8.0  
 Since Nov 18, 2020  
