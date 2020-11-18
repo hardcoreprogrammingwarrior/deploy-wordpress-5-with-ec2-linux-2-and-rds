@@ -44,7 +44,7 @@ $ sudo vim /etc/httpd/conf/httpd.conf
 
 ```blade
 <VirtualHost *:80>  
-	ServerName laravel.example.com  
+	ServerName wordpress.example.com  
 	DocumentRoot /var/www/html/speedrun_wordpress   
 	<Directory /var/www/html/speedrun>  
 		AllowOverride All  
