@@ -46,7 +46,7 @@ $ sudo vim /etc/httpd/conf/httpd.conf
 <VirtualHost *:80>  
 	ServerName wordpress.example.com  
 	DocumentRoot /var/www/html/speedrun_wordpress   
-	<Directory /var/www/html/speedrun>  
+	<Directory /var/www/html/speedrun_wordpress>  
 		AllowOverride All  
 	</Directory>  
 </VirtualHost>  
